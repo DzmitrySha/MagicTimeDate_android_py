@@ -1,4 +1,4 @@
-# Magic Date and Time (android)
+# Magic Date and Time
 
 Программа написана преимущественно для платформы android на языке Python, но можно создать версию и для windows, и web-версию - в зависимости от ваших потребностей, используя возможности модуля briefcase. 
 
