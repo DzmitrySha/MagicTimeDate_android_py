@@ -1,0 +1,4 @@
+Создание apks файла:
+
+java -jar "C:\Portable Programs\bundletool\bundletool-all-1.15.6.jar" build-apks --bundle="D:\YandexDisk\001 PythonProjects\MainDate_android\maindate\dist\Main Date-0.0.1.aab" --output="D:\YandexDisk\001 PythonProjects\MainDate_android\maindate\dist\Main_Date_0.0.1.apks"
+
